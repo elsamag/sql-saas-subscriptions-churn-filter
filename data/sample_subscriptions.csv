@@ -1,0 +1,13 @@
+account_id,plan_type,status,mrr,created_date
+ACC-89021,Enterprise,canceled,1200.00,2025-01-15
+ACC-89022,Pro,active,299.00,2025-02-01
+ACC-89044,Pro,churned,299.00,2025-02-10
+ACC-89055,Growth,active,99.00,2025-03-01
+ACC-89109,Growth,downgraded,99.00,2025-03-12
+ACC-89112,Enterprise,churned,1500.00,2025-04-05
+ACC-89120,Pro,active,299.00,2025-04-18
+ACC-89133,Enterprise,canceled,2000.00,2025-05-01
+ACC-89145,Pro,active,299.00,2025-05-15
+ACC-89150,Growth,churned,99.00,2025-05-20
+ACC-89162,Enterprise,active,2500.00,2025-06-01
+ACC-89178,Pro,downgraded,299.00,2025-06-10
